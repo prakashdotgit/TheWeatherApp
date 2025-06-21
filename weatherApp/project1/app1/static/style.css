@@ -276,7 +276,7 @@
       background-color: color-mix(in oklab, var(--color-white) 30%, transparent);
     }
   }
-  .bg-\[url\(\'\.\/images\/bgimage-2\.pn  g\'\)\] {
+  .bg-\[url\(\'\.\/images\/bgimage-2\.png\'\)\] {
     background-image: url('./images/bgimage-2.png');
   }
   .bg-cover {
